@@ -77,7 +77,11 @@
         <entry file="file://$PROJECT_DIR$/app/views/products/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="29" selection-start="706" selection-end="706" vertical-scroll-proportion="-6.5416665" vertical-offset="233" max-vertical-offset="585">
-              <folding />
+              <folding>
+                <marker date="1390094667000" expanded="true" signature="23:806" placeholder="do ... end" />
+                <marker date="1390094667000" expanded="true" signature="38:347" placeholder="if ... end" />
+                <marker date="1390094667000" expanded="true" signature="260:312" placeholder="do ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -556,7 +560,11 @@
     <entry file="file://$PROJECT_DIR$/app/views/products/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="29" selection-start="706" selection-end="706" vertical-scroll-proportion="-6.5416665" vertical-offset="233" max-vertical-offset="585">
-          <folding />
+          <folding>
+            <marker date="1390094667000" expanded="true" signature="23:806" placeholder="do ... end" />
+            <marker date="1390094667000" expanded="true" signature="38:347" placeholder="if ... end" />
+            <marker date="1390094667000" expanded="true" signature="260:312" placeholder="do ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
