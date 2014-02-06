@@ -18,3 +18,5 @@ Product.create!(title: 'C# 1,2,3',
 description: "Fake C# book",
     image_url: 'cs.jpg',
     price: 4.95)
+
+#to get this data picked up...Call Rake db:seed
