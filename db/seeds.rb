@@ -14,3 +14,7 @@ Product.create!(title: 'Programing Ruby 1.9 & 2.0',
                 image_url: 'ruby.jpg',
                 price: 49.95)
 #...
+Product.create!(title: 'C# 1,2,3',
+description: "Fake C# book",
+    image_url: 'cs.jpg',
+    price: 4.95)
