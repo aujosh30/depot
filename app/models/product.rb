@@ -8,4 +8,5 @@ class Product < ActiveRecord::Base
   validates :title, uniqueness: true
 
   #Test ignored files
+  #test ignore 2
 end
