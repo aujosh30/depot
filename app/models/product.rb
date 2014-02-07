@@ -6,4 +6,6 @@ class Product < ActiveRecord::Base
       message: 'must be a URL for GIF, JPG, or PNG image'
   }
   validates :title, uniqueness: true
+
+  #Test ignored files
 end
