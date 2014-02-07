@@ -14,6 +14,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+.idea.Workspace.xml
 
 *.rbc
 *.sassc
@@ -41,5 +42,5 @@ config/secrets.yml
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
-.idea/workspace.xml
+
 
