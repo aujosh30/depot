@@ -11,4 +11,5 @@ class Product < ActiveRecord::Base
   #test ignore 2
   #test ignore 3
   #test ignore 5
+  #last test, then I am giving up...
 end
