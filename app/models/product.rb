@@ -9,4 +9,5 @@ class Product < ActiveRecord::Base
 
   #Test ignored files
   #test ignore 2
+  #test ignore 3
 end

@@ -35,7 +35,7 @@
       <file leaf-file-name="product.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/product.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="16" selection-start="390" selection-end="390" vertical-scroll-proportion="0.3856041" vertical-offset="0" max-vertical-offset="389">
+            <state line="11" column="16" selection-start="407" selection-end="407" vertical-scroll-proportion="0.42416453" vertical-offset="0" max-vertical-offset="389">
               <folding />
             </state>
           </provider>
@@ -423,7 +423,11 @@
       <created>1391753362246</created>
       <updated>1391753362247</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;">
+      <created>1391753465834</created>
+      <updated>1391753465834</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -791,7 +795,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/product.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="16" selection-start="390" selection-end="390" vertical-scroll-proportion="0.3856041" vertical-offset="0" max-vertical-offset="389">
+        <state line="11" column="16" selection-start="407" selection-end="407" vertical-scroll-proportion="0.42416453" vertical-offset="0" max-vertical-offset="389">
           <folding />
         </state>
       </provider>
